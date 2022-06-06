@@ -1,11 +1,12 @@
 # Dmitry Skutin
 
 ## My Contact Info
-* **Discord:** Skutin.dm#8745
 * **GitHub:** [SkutinDm](https://github.com/SkutinDm)
 * **Email:** [skutin.dim@gmail.com](mailto:skutin.dim@gmail.com)
-* **Phone:** +375 (44) 557-92-22
 * **Telegram:** [Dmitry_Skutin](https://t.me/Dmitry_Skutin) 
+* **Discord:** Skutin.dm#8745
+* **Phone:** +375 (44) 557-92-22
+
 
 ## About Myself
 **I'm 28 years old young man. Currently I work as a sales manager in field of aviation.** 
